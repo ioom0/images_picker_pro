@@ -1,6 +1,6 @@
-# images_picker
+# images_picker_pro
 
-[![images-picker](https://img.shields.io/badge/pub-1.2.10-orange)](https://pub.dev/packages/images_picker)
+[![images-picker](https://img.shields.io/badge/pub-1.2.10-orange)](https://pub.dev/packages/images_picker_pro)
 
 Flutter plugin for selecting images/videos from the Android and iOS image library, and taking pictures/videos with the camera,save image/video to album/gallery
 
@@ -42,10 +42,10 @@ minSdkVersion 21
 
 And,
 ```yaml
-images_picker: ^newest
+images_picker_pro: ^newest
 ```
 ```dart
-import "package:images_picker/images_picker.dart";
+import 'package:images_picker_pro/images_picker_pro.dart';
 ```
 
 ### Usage

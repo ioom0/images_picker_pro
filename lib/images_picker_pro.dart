@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 
 class ImagesPicker {
   static const MethodChannel _channel =
-  MethodChannel('chavesgu/images_picker');
+  MethodChannel('chavesgu/images_picker_pro');
 
   static Future<List<Media>?> pick({
     int count = 1,

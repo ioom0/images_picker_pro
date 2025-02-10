@@ -1,7 +1,7 @@
 name: images_picker_pro
-description: "A new Flutter project."
-version: 0.0.1
-homepage:
+description: "images_picker_pro is a new update for images_picker."
+version: 0.0.3
+homepage: https://github.com/ioom0/images_picker_pro
 
 environment:
   sdk: ^3.6.0
